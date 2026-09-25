@@ -1,0 +1,26 @@
+{
+  "name": "Center Logistic - لوجستي المركز",
+  "short_name": "Center Logistic",
+  "description": "Inventory management for Room and Warehouse",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "/my-app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/my-app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
